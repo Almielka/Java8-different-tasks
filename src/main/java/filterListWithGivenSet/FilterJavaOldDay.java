@@ -11,7 +11,7 @@ import java.util.Set;
  * Sum and return score for persons whose ids are included in an importantIds set
  */
 
-public class FilterJava7 {
+public class FilterJavaOldDay {
 
     public int sumScore(List<Person> persons, Set<Integer> importantIds) {
         int sum = 0;

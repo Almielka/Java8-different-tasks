@@ -4,7 +4,7 @@ package filterArraySimple;
  * @author Anna S. Almielka
  */
 
-public class FilterJava7 {
+public class FilterJavaOldDay {
 
     public static void main(String[] args) {
 
